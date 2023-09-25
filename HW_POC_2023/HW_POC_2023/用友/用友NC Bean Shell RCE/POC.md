@@ -1,1 +1,0 @@
-/servlet/~ic/bsh.servlet.BshServlet

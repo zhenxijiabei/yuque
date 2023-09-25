@@ -1,2 +1,0 @@
-
-/artemis-portal/artemis/env

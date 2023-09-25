@@ -1,7 +1,0 @@
-POST /report/reportServlet?action=8 HTTP/1.1
-Host: ip:port Content-Length: 118 Cache-Control: max-age=0
-Upgrade-Insecure-Requests: 1
-Origin: http://ip:port Content-Type: application/x-www-form-urlencoded User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36  Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,/;q=0.8,application/signed-exchange;v=b3;q=0.7 Referer: http://ip:port/report/reportServlet?action=8
-Accept-Encoding: gzip, deflate Accept-Language: zh-CN,zh;q=0.9 Cookie: JSESSIONID=e5b1b1e6b5b7e4b98be585b3
-Connection: close
- year=&userName=&startDate=&endDate=&dutyRule=*&resultPage=%2FreportJsp%2FshowReport.jsp%3Fraq%3D%252FJourTemp2.raq

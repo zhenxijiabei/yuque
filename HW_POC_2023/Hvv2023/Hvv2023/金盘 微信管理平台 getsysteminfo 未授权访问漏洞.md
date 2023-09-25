@@ -1,1 +1,0 @@
-/admin/weichatcfg/getsysteminfo

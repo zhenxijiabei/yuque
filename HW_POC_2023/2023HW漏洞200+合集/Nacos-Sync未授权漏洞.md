@@ -1,1 +1,0 @@
-https://xxx.xxx.xxx/#/serviceSync
