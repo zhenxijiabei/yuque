@@ -1,0 +1,1 @@
+/accountApi/getMaster.do

