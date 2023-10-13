@@ -1,0 +1,16 @@
+airodump-ng -c 1 -w /zhuabao/DIRECT-REDESKTOP-S685CSNmsUZ/er8 --bssid 5E:87:9C:50:35:9D wlan0mon
+airodump-ng -c 1 -w /zhuabao/CMCC/er8 --bssid 80:12:DF:33:A0:02 wlan0mon
+airodump-ng -c 6 -w /zhuabao/FAST_1790/er8 --bssid 8C:78:D7:BF:17:90 wlan0mon
+airodump-ng -c 3 -w /zhuabao/5楼/er8 --bssid FC:7C:02:9B:13:FF wlan0mon
+
+airodump-ng -c 2 -w /zhuabao/xiaoxinshuadaxiang/er8 --bssid 28:6C:07:D4:CB:29 wlan0mon
+airodump-ng -c 11 -w /zhuabao/ChinaNet-V2QS/er8 --bssid 2C:55:7C:B8:4B:E2 wlan0mon
+airodump-ng -c 6 -w /zhuabao/TP-LINK_E42E/er8 --bssid 74:05:A5:C0:E4:2E wlan0mon
+airodump-ng -c 10 -w /zhuabao/CMCC-7aLa/er8 --bssid 3C:E3:E7:EB:AC:24 wlan0mon
+airodump-ng -c 13 -w /zhuabao/CMCC-1234/er8 --bssid C0:98:DA:B6:83:0E wlan0mon
+airodump-ng -c 7 -w /zhuabao/CMCC-j5DF/er8 --bssid A8:41:22:C9:73:40 wlan0mon
+airodump-ng -c 1 -w /zhuabao/HUAWEI-wxk/er8 --bssid B8:27:C5:A0:39:1C wlan0mon
+airodump-ng -c 1 -w /zhuabao/acfun/er8 --bssid B8:F8:83:4E:A7:20 wlan0mon
+airodump-ng -c 8 -w /zhuabao/Tenda_CE25C0/er8 --bssid C8:3A:35:CE:25:C0 wlan0mon
+airodump-ng -c 6 -w /zhuabao/常来常往/er8 --bssid 48:0E:EC:69:07:E2 wlan0mon
+airodump-ng -c 13 -w /zhuabao/ChinaNet-MDux/er8 --bssid DC:72:9B:62:30:60 wlan0mon
